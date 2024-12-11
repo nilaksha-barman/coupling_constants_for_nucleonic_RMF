@@ -5,3 +5,4 @@
 ### ceft_astro_hic_coupling_constants.dat: coupling constants obtained upon imposing 'Chiral EFT + Astro + HIC'
 ### ceft_astro_hic_nuc_sat_posterior.dat: nuclear saturation properties obtained upon imposing 'Chiral EFT + Astro + HIC'
 
+## For the fixed parameterization [n_{sat} = .16 fm^{-3}]
