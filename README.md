@@ -9,4 +9,4 @@
 ### [g_{\sigma}	= 10.428602, g_{\omega}	= 11.773476, g_{\rho}	= 10.272112, b_{\sigma}	= 0.0030847, c_{\sigma}	= -0.0036823, \Lambda_{\omega} = 0.027849]
 
 
-##  3. While using these data please cite our paper and also cite Ghosh et al., EPJA 2022 (https://doi.org/10.1140/epja/s10050-022-00679-w).
+##  3. While using these data please cite our paper (https://doi.org/10.1103/PhysRevD.111.023017) and also cite Ghosh et al., EPJA 2022 (https://doi.org/10.1140/epja/s10050-022-00679-w).
